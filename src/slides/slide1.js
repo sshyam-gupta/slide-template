@@ -7,7 +7,7 @@ function Slide1() {
         Getting started with
       </Heading>
       <Heading margin="0 10rem" fontSize="125px" marginTop="-3rem">
-        something
+        React Native
       </Heading>
     </FlexBox>
   );

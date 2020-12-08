@@ -8,8 +8,8 @@ const customTheme = {
     primary: "#2F3030",
     secondary: "#DC3B41",
     tertiary: "#fff",
-    quaternary: "#ffc951",
-    quinary: "#8bddfd",
+    quaternary: "#DC3B41",
+    quinary: "#DC3B41",
   },
   fonts: {
     header: '"Helvetica Neue", Helvetica, Arial, sans-serif',
