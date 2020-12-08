@@ -1,4 +1,4 @@
-import { FlexBox, Heading, Image, Text, Link } from "spectacle";
+import { FlexBox, Heading } from "spectacle";
 
 function Slide11() {
   return (

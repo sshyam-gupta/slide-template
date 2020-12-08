@@ -1,4 +1,4 @@
-import { FlexBox, Heading, ListItem, UnorderedList } from "spectacle";
+import { Heading, ListItem, UnorderedList } from "spectacle";
 
 function Slide2() {
   return (
