@@ -12,7 +12,7 @@ import Slide6 from "./slides/slide6";
 import Slide7 from "./slides/slide7";
 import Slide8 from "./slides/slide8";
 import Slide9 from "./slides/slide9";
-import Slide10 from "./slides/slide10";
+// import Slide10 from "./slides/slide10";
 import Slide11 from "./slides/slide11";
 import Slide12 from "./slides/slide12";
 import Slide13 from "./slides/slide13";
@@ -52,9 +52,9 @@ function App() {
       <Slide>
         <Slide9 />
       </Slide>
-      <Slide>
+      {/* <Slide>
         <Slide10 />
-      </Slide>
+      </Slide> */}
       <Slide>
         <Slide11 />
       </Slide>
