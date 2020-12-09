@@ -17,6 +17,7 @@ import Slide11 from "./slides/slide11";
 import Slide12 from "./slides/slide12";
 import Slide13 from "./slides/slide13";
 import Slide14 from "./slides/slide14";
+import ArchitectureSlide from "./slides/architecture";
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
       </Slide>
       <Slide>
         <Slide3 />
+      </Slide>
+      <Slide>
+        <ArchitectureSlide />
       </Slide>
       <Slide>
         <Slide4 />

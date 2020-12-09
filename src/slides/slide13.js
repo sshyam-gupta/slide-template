@@ -10,6 +10,15 @@ function Slide13() {
             React native docs
           </Link>
         </ListItem>
+        <ListItem>
+          <Link
+            href="https://www.youtube.com/watch?v=7gm0owyO8HU"
+            target="_blank"
+            rel="noopener"
+          >
+            React Native: See the Past, the Present and the Future
+          </Link>
+        </ListItem>
       </UnorderedList>
     </FlexBox>
   );
