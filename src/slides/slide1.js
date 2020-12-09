@@ -9,6 +9,9 @@ function Slide1() {
       <Heading margin="0 10rem" fontSize="125px" marginTop="-3rem">
         React Native
       </Heading>
+      <Heading margin="0 10rem" fontSize="35px" color="black">
+        Shyam Gupta
+      </Heading>
     </FlexBox>
   );
 }
